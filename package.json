@@ -1,0 +1,26 @@
+{
+  "name": "digminer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drew Petersen <kirbysayshi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "Sentimental": "^1.0.1",
+    "bigintjs": "^0.3.5",
+    "debug": "^2.2.0",
+    "forever": "^0.15.1",
+    "forever-monitor": "^1.7.0",
+    "level": "^1.4.0",
+    "level-live-stream": "^1.4.11",
+    "minimist": "^1.2.0",
+    "multilevel": "^7.2.2",
+    "retext": "^1.0.0",
+    "retext-sentiment": "^1.0.0",
+    "sentiment": "^1.0.2",
+    "twit": "^2.1.1"
+  }
+}
